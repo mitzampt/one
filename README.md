@@ -1,2 +1,2 @@
 # one
-test repo to see how this shit works
+test repo to see how this thing works
